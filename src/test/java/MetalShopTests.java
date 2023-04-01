@@ -32,4 +32,6 @@ public class MetalShopTests {
         driverChrome.quit();
     }
 
+    //to moj pierwszy commit
+
 }
